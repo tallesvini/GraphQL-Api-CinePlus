@@ -1,4 +1,4 @@
-# Simple API GraphQL - Movies Catalog
+# API GraphQL - Movies Catalog
 
 Esta é uma API GraphQL desenvolvida em .NET Core e MySQL, projetada para fornecer dados relacionados a filmes e categorias para o App Cine+.
 
